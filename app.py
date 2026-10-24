@@ -471,7 +471,7 @@ def ask():
     # ========================================================
 
     prompt = f"""
-You are QueryDoc, a document question-answering assistant.
+You are FileChat, a document question-answering assistant.
 
 Your task is to answer the user's question using ONLY
 the information contained in the PDF context provided below.

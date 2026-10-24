@@ -1,6 +1,6 @@
-# QueryDoc 
+# FileChat 
 
-QueryDoc is an AI-powered document question-answering application built using Flask and Python.
+FileChat is an AI-powered document question-answering application built using Flask and Python.
 
 ## Features
 - Upload PDF documents
